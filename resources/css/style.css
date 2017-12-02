@@ -27,3 +27,9 @@ a {
   color: Aquamarine;
   font-size: 16px;
 }
+
+.excursion {
+  text-align: right;
+  color: gray;
+  font-size: 21px;
+}
